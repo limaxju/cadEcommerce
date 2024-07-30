@@ -184,4 +184,4 @@ Aplicação web para cadastrar produtos com seleção de categoria e marca. Util
 4. Acesse `index.php` através do navegador.
 
 ## Imagens do trabalho
-![Estrutura da página](img.png)
+! [Estrutura da página](img.png)
