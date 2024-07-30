@@ -182,3 +182,6 @@ Aplicação web para cadastrar produtos com seleção de categoria e marca. Util
 2. Utilize um servidor web com suporte a PHP e MySQL.
 3. Coloque os arquivos no servidor e configure o banco de dados.
 4. Acesse `index.php` através do navegador.
+
+## Imagens do trabalho
+![Tela de cadastro de produtos](https://github.com/your-username/your-re
