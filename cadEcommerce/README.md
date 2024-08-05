@@ -184,10 +184,10 @@ Aplicação web para cadastrar produtos com seleção de categoria e marca. Util
 4. Acesse `index.php` através do navegador.
 
 ## Imagens do trabalho
-! [Pedido de Compra](cadEcommerce/img.png)
+! [Pedido de Compra](cadEcommerce/img.png(1))
 
-! [Estrutura da página](cadEcommerce/img2.png)
+! [Estrutura da página](cadEcommerce/img.png(2))
 
-! [Cadastro de Marcas](cadEcommerce/img3.png)
+! [Cadastro de Marcas](cadEcommerce/img.png(3))
 
-! [Cadastro concluído](cadEcommerce/img4.png)
+! [Cadastro concluído](cadEcommerce/img.png(4))
