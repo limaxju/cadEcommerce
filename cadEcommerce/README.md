@@ -190,7 +190,7 @@ Aplicação web para cadastrar produtos com seleção de categoria e marca. Util
 
 ! [Cadastro de Marcas](cadEcommerce/img.png(3))
 
-! [Cadastro concluído](cadEcommerce/img.png(4))
+! [Cadastro de Marcas concluído](cadEcommerce/img.png(4))
 
 ! [Cadastro de Categorias](cadEcommerce/img.png(5))
 
