@@ -42,7 +42,7 @@ Aplicação web para gerenciar um carrinho de compras.
 
 Aplicação web para cadastrar categorias.
 
-![Captura de tela 2024-08-05 094521](imgs/cad-categorias.png)
+![Captura de tela 2024-08-05 094521](imgs/cad-categoria.png)
 
 ![Captura de tela 2024-08-05 100857](imgs/categoria.png)
 
