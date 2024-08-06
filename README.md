@@ -89,7 +89,7 @@ Aplicação web para gerenciar pedidos de compra.
 
 Aplicação web para cadastrar marcas.
 
-![Captura de tela 2024-08-05 090825](https://github.com/user-attachments/assets/b1525c30-0a70-4a2f-88f3-263a3fa576a3)
+[Captura de tela 2024-08-05 090848.png]
 
 ![Captura de tela 2024-08-05 091053](https://github.com/user-attachments/assets/233e9404-1462-4173-9af4-a59fc04a2336)
 
