@@ -190,3 +190,8 @@ Aplicação web para cadastrar produtos com seleção de categoria e marca.
 - [Documentação do PHP: mysqli_close](https://www.php.net/manual/pt_BR/mysqli.close.php)
 - [Como se conectar ao MySQL usando PHP](https://www.godaddy.com/pt-br/help/como-se-conectar-ao-mysql-usando-php-216)
 - [Como inserir dados no MySQL com PHP](https://www.hostinger.com.br/tutoriais/como-inserir-dados-no-mysql-com-php)
+
+## Autores 
+
+- Julia Lima
+- Leonardo Rocha
