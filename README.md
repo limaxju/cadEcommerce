@@ -43,6 +43,7 @@ Aplicação web para gerenciar um carrinho de compras.
 Aplicação web para cadastrar categorias.
 
 ![Captura de tela 2024-08-05 094521](https://github.com/user-attachments/assets/0a68a919-392e-4948-bc4c-1773f1a07c88)
+
 ![Captura de tela 2024-08-05 100857](https://github.com/user-attachments/assets/df8370a3-0598-4a8c-9464-182fc437e595)
 
 #### Arquivos
@@ -89,6 +90,7 @@ Aplicação web para gerenciar pedidos de compra.
 Aplicação web para cadastrar marcas.
 
 ![Captura de tela 2024-08-05 090825](https://github.com/user-attachments/assets/b1525c30-0a70-4a2f-88f3-263a3fa576a3)
+
 ![Captura de tela 2024-08-05 091053](https://github.com/user-attachments/assets/233e9404-1462-4173-9af4-a59fc04a2336)
 
 #### Arquivos
