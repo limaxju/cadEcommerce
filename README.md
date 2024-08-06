@@ -65,7 +65,7 @@ Aplicação web para cadastrar categorias.
 
 Aplicação web para gerenciar pedidos de compra.
 
-![Captura de tela 2024-08-05 090203](https://github.com/user-attachments/assets/10a7e641-430e-43cb-91ce-42118876a903)
+![Captura de tela 2024-08-05 090203](imgs/)
 
 #### Arquivos
 
