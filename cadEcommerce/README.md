@@ -1,197 +1,191 @@
-# Projeto: Carrinho de Compras
+# CadEcommerce
 
-Aplicação web para gerenciar um carrinho de compras. Utiliza HTML, CSS, JavaScript e PHP.
+## Projetos Web
+
+Aplicações web utilizando HTML, CSS, JavaScript e PHP.
+
+## Estrutura da página
+
+![Captura de tela 2024-07-30 080857](https://github.com/user-attachments/assets/94718ad2-2b8c-4ee6-98a4-cc09b38a88eb)
 
 ## Estrutura
 
-- **HTML**: Define o layout da página.
-- **CSS**: Aplica estilos à página.
-- **JavaScript**: Adiciona funcionalidades interativas.
-- **PHP**: Backend que gerencia produtos e o carrinho.
+- **HTML**: Layout das páginas.
+- **CSS**: Estilos das páginas.
+- **JavaScript**: Funcionalidades interativas.
+- **PHP**: Backend para manipulação de dados.
 
-## Arquivos
+## Projetos
 
-1. `index.php`: Página principal do carrinho de compras.
-   - **Comentário**: Este arquivo é a entrada principal da aplicação, responsável por exibir os produtos e o carrinho.
-2. `css/style.css`: Arquivo de estilos.
-   - **Comentário**: Contém todos os estilos CSS aplicados à página, garantindo uma apresentação visual consistente.
-3. `js/jquery-2.1.4.min.js`: Biblioteca jQuery.
-   - **Comentário**: Facilita a manipulação do DOM e eventos na página.
+### 1. Carrinho de Compras
+
+Aplicação web para gerenciar um carrinho de compras.
+
+#### Arquivos
+
+1. `index.php`: Página principal do carrinho.
+2. `css/style.css`: Estilos.
+3. `js/jquery-2.1.4.min.js`: jQuery.
 4. `js/script.js`: Scripts personalizados.
-   - **Comentário**: Contém as funcionalidades interativas, como adicionar ou remover produtos do carrinho.
-5. `controller/carrinho-busca.php`: Script para buscar produtos.
-   - **Comentário**: Realiza a busca de produtos no backend e retorna os resultados para serem exibidos no frontend.
+5. `controller/carrinho-busca.php`: Busca de produtos.
 
-## Execução
+#### Execução
 
 1. Clone o repositório.
-2. Utilize um servidor web com suporte a PHP.
+2. Use um servidor web com PHP.
 3. Coloque os arquivos no servidor.
-4. Acesse `index.php` através do navegador.
+4. Acesse `index.php`.
 
 ---
 
-# Projeto: Cadastro de Categorias
+### 2. Cadastro de Categorias
 
-Aplicação web para cadastrar categorias. Utiliza HTML, CSS e PHP.
+Aplicação web para cadastrar categorias.
 
-## Estrutura
+![Captura de tela 2024-08-05 094521](https://github.com/user-attachments/assets/0a68a919-392e-4948-bc4c-1773f1a07c88)
+![Captura de tela 2024-08-05 100857](https://github.com/user-attachments/assets/df8370a3-0598-4a8c-9464-182fc437e595)
 
-- **HTML**: Define o layout do formulário.
-- **CSS**: Aplica estilos à página.
-- **PHP**: Processa o cadastro das categorias.
+#### Arquivos
 
-## Arquivos
+1. `index.php`: Formulário de cadastro.
+2. `css/style.css`: Estilos.
+3. `insere-categoria.php`: Cadastro de categoria.
 
-1. `index.php`: Página principal com o formulário de cadastro.
-   - **Comentário**: Formulário para entrada de novas categorias.
-2. `css/style.css`: Arquivo de estilos.
-   - **Comentário**: Contém estilos CSS para o formulário.
-3. `insere-categoria.php`: Script para inserir categorias.
-   - **Comentário**: Processa os dados do formulário e insere uma nova categoria no banco de dados.
-
-## Execução
+#### Execução
 
 1. Clone o repositório.
-2. Utilize um servidor web com suporte a PHP.
+2. Use um servidor web com PHP.
 3. Coloque os arquivos no servidor.
-4. Acesse `index.php` através do navegador.
+4. Acesse `index.php`.
 
 ---
 
-# Projeto: Pedido de Compra
+### 3. Pedido de Compra
 
-Aplicação web para gerenciar pedidos de compra. Utiliza HTML, CSS, JavaScript e PHP.
+Aplicação web para gerenciar pedidos de compra.
 
-## Estrutura
+![Captura de tela 2024-08-05 090203](https://github.com/user-attachments/assets/10a7e641-430e-43cb-91ce-42118876a903)
 
-- **HTML**: Define o layout da página.
-- **CSS**: Aplica estilos à página.
-- **JavaScript**: Adiciona funcionalidades interativas.
-- **PHP**: Backend que gerencia produtos e o carrinho.
+#### Arquivos
 
-## Arquivos
-
-1. `index.php`: Página principal de produtos.
-   - **Comentário**: Exibe a lista de produtos disponíveis para compra.
-2. `css/style.css`: Arquivo de estilos.
-   - **Comentário**: Contém estilos CSS para a página de produtos.
-3. `js/jquery-2.1.4.min.js`: Biblioteca jQuery.
-   - **Comentário**: Facilita a manipulação do DOM e eventos na página.
+1. `index.php`: Página de produtos.
+2. `css/style.css`: Estilos.
+3. `js/jquery-2.1.4.min.js`: jQuery.
 4. `js/script.js`: Scripts personalizados.
-   - **Comentário**: Contém as funcionalidades interativas, como adicionar produtos ao carrinho.
-5. `controller/produtos-busca.php`: Script para buscar produtos.
-   - **Comentário**: Realiza a busca de produtos no backend e retorna os resultados para serem exibidos no frontend.
-6. `carrinho.php`: Página do carrinho de compras.
-   - **Comentário**: Exibe os produtos adicionados ao carrinho e permite a finalização do pedido.
+5. `controller/produtos-busca.php`: Busca de produtos.
+6. `carrinho.php`: Página do carrinho.
 
-## Execução
+#### Execução
 
 1. Clone o repositório.
-2. Utilize um servidor web com suporte a PHP.
+2. Use um servidor web com PHP.
 3. Coloque os arquivos no servidor.
-4. Acesse `index.php` através do navegador.
+4. Acesse `index.php`.
 
 ---
 
-# Projeto: Cadastro de Marcas
+### 4. Cadastro de Marcas
 
-Aplicação web para cadastrar marcas. Utiliza HTML, CSS e PHP.
+Aplicação web para cadastrar marcas.
 
-## Estrutura
+![Captura de tela 2024-08-05 090825](https://github.com/user-attachments/assets/b1525c30-0a70-4a2f-88f3-263a3fa576a3)
+![Captura de tela 2024-08-05 091053](https://github.com/user-attachments/assets/233e9404-1462-4173-9af4-a59fc04a2336)
 
-- **HTML**: Define o layout do formulário.
-- **CSS**: Aplica estilos à página.
-- **PHP**: Processa o cadastro das marcas.
+#### Arquivos
 
-## Arquivos
+1. `index.php`: Formulário de cadastro.
+2. `css/style.css`: Estilos.
+3. `insere-marca.php`: Cadastro de marca.
 
-1. `index.php`: Página principal com o formulário de cadastro.
-   - **Comentário**: Formulário para entrada de novas marcas.
-2. `css/style.css`: Arquivo de estilos.
-   - **Comentário**: Contém estilos CSS para o formulário.
-3. `insere-marca.php`: Script para inserir marcas.
-   - **Comentário**: Processa os dados do formulário e insere uma nova marca no banco de dados.
-
-## Execução
+#### Execução
 
 1. Clone o repositório.
-2. Utilize um servidor web com suporte a PHP.
+2. Use um servidor web com PHP.
 3. Coloque os arquivos no servidor.
-4. Acesse `index.php` através do navegador.
+4. Acesse `index.php`.
 
 ---
 
-# Projeto: Resumo de Pedido
+### 5. Resumo de Pedido
 
-Aplicação web para mostrar o resumo de um pedido. Utiliza HTML, CSS, JavaScript e PHP.
+Aplicação web para mostrar o resumo de um pedido.
 
-## Estrutura
+#### Arquivos
 
-- **HTML**: Define o layout da página.
-- **CSS**: Aplica estilos à página.
-- **JavaScript**: Adiciona funcionalidades interativas.
-- **PHP**: Backend que gera o resumo do pedido.
-
-## Arquivos
-
-1. `index.php`: Página principal do resumo do pedido.
-   - **Comentário**: Exibe o resumo dos produtos selecionados para compra.
-2. `css/style.css`: Arquivo de estilos.
-   - **Comentário**: Contém estilos CSS para a página de resumo.
-3. `js/jquery-2.1.4.min.js`: Biblioteca jQuery.
-   - **Comentário**: Facilita a manipulação do DOM e eventos na página.
+1. `index.php`: Página do resumo.
+2. `css/style.css`: Estilos.
+3. `js/jquery-2.1.4.min.js`: jQuery.
 4. `js/script.js`: Scripts personalizados.
-   - **Comentário**: Contém as funcionalidades interativas para exibir e atualizar o resumo do pedido.
-5. `controller/produtos-resumo.php`: Script para gerar o resumo do pedido.
-   - **Comentário**: Realiza o processamento dos dados do pedido e retorna o resumo para ser exibido no frontend.
+5. `controller/produtos-resumo.php`: Resumo do pedido.
 
-## Execução
+#### Execução
 
 1. Clone o repositório.
-2. Utilize um servidor web com suporte a PHP.
+2. Use um servidor web com PHP.
 3. Coloque os arquivos no servidor.
-4. Acesse `index.php` através do navegador.
+4. Acesse `index.php`.
 
 ---
 
-# Projeto: Cadastro de Produtos
+### 6. Cadastro de Produtos
 
-Aplicação web para cadastrar produtos com seleção de categoria e marca. Utiliza HTML e PHP.
+Aplicação web para cadastrar produtos com seleção de categoria e marca.
 
-## Estrutura
+#### Arquivos
 
-- **PHP**: Gerencia a conexão e inserção de dados no banco de dados.
-- **HTML**: Define o layout do formulário de cadastro.
-- **CSS**: Aplica estilos à página.
+1. `index.php`: Formulário de cadastro.
+2. `css/style.css`: Estilos.
+3. `insere-produto.php`: Inserção de produto.
+4. `controller/conexao.php`: Conexão com o banco de dados.
 
-## Arquivos
-
-1. `index.php`: Página principal com o formulário de cadastro.
-   - **Comentário**: Formulário para entrada de novos produtos, permitindo a seleção de categoria e marca.
-2. `css/style.css`: Arquivo de estilos.
-   - **Comentário**: Contém estilos CSS para o formulário.
-3. `insere-produto.php`: Script para inserir produtos.
-   - **Comentário**: Processa os dados do formulário e insere um novo produto no banco de dados.
-4. `controller/conexao.php`: Script de conexão com o banco de dados.
-   - **Comentário**: Estabelece a conexão com o banco de dados MySQL.
-
-## Execução
+#### Execução
 
 1. Clone o repositório.
-2. Utilize um servidor web com suporte a PHP e MySQL.
+2. Use um servidor web com PHP e MySQL.
 3. Coloque os arquivos no servidor e configure o banco de dados.
-4. Acesse `index.php` através do navegador.
+4. Acesse `index.php`.
 
-## Imagens do trabalho
-! [Pedido de Compra](cadEcommerce/img.png(1))
+---
 
-! [Estrutura da página](cadEcommerce/img.png(2))
+## Métodos PHP
 
-! [Cadastro de Marcas](cadEcommerce/img.png(3))
+### `mysqli`
 
-! [Cadastro de Marcas concluído](cadEcommerce/img.png(4))
+- **Descrição**: `mysqli` é uma extensão do PHP que permite a interação com bancos de dados MySQL. Ele oferece uma interface melhorada e mais segura em comparação com a extensão `mysql`, que é mais antiga e está obsoleta.
 
-! [Cadastro de Categorias](cadEcommerce/img.png(5))
+### `mysqli_query`
 
-! [Cadastro de Categorias efetivado](cadEcommerce/img.png(6))
+- **Descrição**: `mysqli_query` é uma função do PHP utilizada para executar consultas SQL em um banco de dados MySQL. Essa função é parte da extensão MySQLi (MySQL Improved), que é uma melhoria da antiga extensão `mysql` e fornece uma interface mais segura e eficiente para interagir com bancos de dados MySQL.
+- **Exemplo de uso**:
+    ```php
+    $result = mysqli_query($conn, $sql);
+    if ($result) {
+        // Processar os resultados
+    } else {
+        echo "Erro: " . mysqli_error($conn);
+    }
+    ```
+
+### `mysqli_close`
+
+- **Descrição**: `mysqli_close` é uma função no PHP que encerra uma conexão previamente aberta com um banco de dados MySQL. Ela é usada para liberar os recursos associados à conexão e fechar a comunicação com o servidor de banco de dados.
+- **Exemplo de uso**:
+    ```php
+    mysqli_close($conn);
+    ```
+
+### `mysqli_error`
+
+- **Descrição**: `mysqli_error` retorna uma string contendo a descrição do erro mais recente ocorrido na conexão ou na operação MySQLi.
+- **Exemplo de uso**:
+    ```php
+    if (!$result) {
+        echo "Erro: " . mysqli_error($conn);
+    }
+    ```
+
+## Sites consultados
+
+- [Documentação do PHP: mysqli_close](https://www.php.net/manual/pt_BR/mysqli.close.php)
+- [Como se conectar ao MySQL usando PHP](https://www.godaddy.com/pt-br/help/como-se-conectar-ao-mysql-usando-php-216)
+- [Como inserir dados no MySQL com PHP](https://www.hostinger.com.br/tutoriais/como-inserir-dados-no-mysql-com-php)
