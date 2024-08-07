@@ -154,6 +154,29 @@ Aplicação web para cadastrar produtos com seleção de categoria e marca.
 
 - **Descrição**: `mysqli` é uma extensão do PHP que permite a interação com bancos de dados MySQL. Ele oferece uma interface melhorada e mais segura em comparação com a extensão `mysql`, que é mais antiga e está obsoleta.
 
+### `mysqli_connect`
+
+- **Descrição**: `mysqli_connect` é uma função do PHP usada para estabelecer uma conexão com um banco de dados MySQL.
+- **Exemplo de uso**:
+    ```php
+    $conn = mysqli_connect($host, $username, $password, $dbname);
+    if (!$conn) {
+        die("Conexão falhou: " . mysqli_connect_error());
+    }
+    ```
+
+### `$mysqli->set_charset('utf8')`
+
+- **Descrição**: `$mysqli->set_charset('utf8')` é um método utilizado para definir o conjunto de caracteres para a conexão MySQL. Isso é útil para garantir que os dados sejam armazenados e recuperados com a codificação correta.
+- **Exemplo de uso**:
+    ```php
+    $conn = new mysqli($host, $username, $password, $dbname);
+    if ($conn->connect_error) {
+        die("Conexão falhou: " . $conn->connect_error);
+    }
+    $conn->set_charset('utf8');
+    ```
+
 ### `mysqli_query`
 
 - **Descrição**: `mysqli_query` é uma função do PHP utilizada para executar consultas SQL em um banco de dados MySQL. Essa função é parte da extensão MySQLi (MySQL Improved), que é uma melhoria da antiga extensão `mysql` e fornece uma interface mais segura e eficiente para interagir com bancos de dados MySQL.
@@ -185,11 +208,20 @@ Aplicação web para cadastrar produtos com seleção de categoria e marca.
     }
     ```
 
+### `require_once`
+
+- **Descrição**: `require_once` é uma construção do PHP que inclui e avalia o arquivo especificado durante a execução do script. Ele garante que o arquivo seja incluído apenas uma vez, evitando a redefinição de funções, classes ou variáveis.
+- **Exemplo de uso**:
+    ```php
+    require_once 'conexao.php';
+    ```
+
 ## Sites consultados
 
 - [Documentação do PHP: mysqli_close](https://www.php.net/manual/pt_BR/mysqli.close.php)
 - [Como se conectar ao MySQL usando PHP](https://www.godaddy.com/pt-br/help/como-se-conectar-ao-mysql-usando-php-216)
 - [Como inserir dados no MySQL com PHP](https://www.hostinger.com.br/tutoriais/como-inserir-dados-no-mysql-com-php)
+- [Métodos PHP](https://www.php.net/manual/pt_BR/mysqli.set-charset.php)
 
 ## Autores 
 
